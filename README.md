@@ -1,5 +1,6 @@
 ### Team Guardian Burnaby Software
 Burnaby team working on software for UAVs
+This is the archived repo, see https://github.com/TeamGuardianBurnaby/tgb-gesture-quadcopter for the current version.
 
 #### Team/Technical Leads
 * Check issues
